@@ -2,7 +2,7 @@
 
 L'assistante de consultation qui écoute, transcrit et rédige vos notes, entièrement sur votre Mac, en s'en tenant à ce que vous avez dit ou écrit.
 
-**[Télécharger Elise v2 pour Mac](https://github.com/medilase/Elise/releases/latest/download/Elise-v2-mac-arm64.zip)** (144 Mo, Mac à puce Apple, macOS 13 ou plus récent) · [Toutes les versions](https://github.com/medilase/Elise/releases)
+**[Télécharger Elise v2 pour Mac](https://github.com/medilase/elise-v2/releases/latest/download/Elise-v2-mac-arm64.zip)** (144 Mo, Mac à puce Apple, macOS 13 ou plus récent) · [Toutes les versions](https://github.com/medilase/elise-v2/releases)
 
 L'installation prend 5 minutes. Si Elise est déjà installée sur le Mac, Elise v2 reprend ses modèles d'IA et s'ouvre aussitôt prête ; sinon, elle les télécharge une seule fois, en 10 minutes à une heure selon la connexion. Après, tout fonctionne sur le Mac, sans connexion.
 
