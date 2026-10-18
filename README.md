@@ -2,7 +2,7 @@
 
 L'assistante de consultation qui écoute, transcrit et rédige vos notes, entièrement sur votre Mac, en s'en tenant à ce que vous avez dit ou écrit.
 
-**[Télécharger Elise v2 pour Mac](https://github.com/medilase/elise-v2/releases/latest/download/Elise-v2-mac-arm64.zip)** (144 Mo, Mac à puce Apple, macOS 13 ou plus récent) · [Toutes les versions](https://github.com/medilase/elise-v2/releases)
+**[Télécharger Elise v2 pour Mac](https://github.com/medilase/elise-v2/releases/latest/download/Elise-v2-mac-arm64.zip)** (144 Mo, Mac à puce Apple, macOS 13 ou plus récent) · [Toutes les versions](https://github.com/medilase/elise-v2/releases) · [Tarifs](#tarifs)
 
 L'installation prend 5 minutes. Si Elise est déjà installée sur le Mac, Elise v2 reprend ses modèles d'IA et s'ouvre aussitôt prête ; sinon, elle les télécharge une seule fois, en 10 minutes à une heure selon la connexion. Après, tout fonctionne sur le Mac, sans connexion.
 
@@ -16,6 +16,27 @@ Elise v2 est Elise 0.3.2 limitée à ce que le praticien a dit ou écrit : elle 
 | Courriers reçus | Résumé avec les valeurs importantes, actions demandées ou implicites | Résumé tel que l'auteur l'écrit, seulement les actions demandées en toutes lettres |
 | Préparation de consultation | Inclut des points à vérifier | Seulement ce que disent les notes et les tâches en attente |
 | Demander à Elise | Peut croiser la consultation et votre bibliothèque | Bibliothèque interrogée seule, sans les données du patient ; aucune conduite à tenir proposée |
+
+## Tarifs
+
+Essai gratuit de 14 jours, puis une licence à votre nom, au choix. Prix TTC, TVA à 20 % incluse.
+
+| Formule | Prix | Ce qui est compris |
+| --- | --- | --- |
+| **Licence perpétuelle** | **290 € TTC** pour les 100 premiers acheteurs (prix de lancement), puis 390 € TTC (325 € HT) | 12 mois de mises à jour inclus. Sans renouvellement, Elise v2 continue de fonctionner avec la dernière version obtenue. |
+| **Mises à jour** | 99 € TTC par an (82,50 € HT), à partir de la 2<sup>e</sup> année | Facultatives, pour la licence perpétuelle. |
+| **Licence annuelle** | 159 € TTC par an (132,50 € HT) | Tout compris : mises à jour, contenus et accompagnement, pour payer moins au départ. |
+
+À 325 € HT, la licence perpétuelle reste sous le seuil de 500 € HT qui permet en principe de passer la dépense directement en charges plutôt que de l'amortir. Faites-le confirmer par votre expert-comptable.
+
+**Inclus tant que vos mises à jour sont actives**, la première année avec la licence perpétuelle ou chaque année avec la licence annuelle :
+
+- **Mises à jour continues** : les nouveaux modèles d'IA locaux à mesure qu'ils sortent (Mistral, Gemma, Parakeet), la compatibilité avec chaque nouveau macOS et les corrections.
+- **Contenus entretenus** : une bibliothèque de modèles de documents par spécialité (laser, ostéopathie, psychologie, diététique…) et des listes d'actes tenues à jour.
+- **Accompagnement** : une installation en visio de 30 minutes, avec le réglage de vos modèles et de votre Stream Deck, puis un support prioritaire.
+- **Le futur plugin Stream Deck** d'Elise, inclus dès sa sortie.
+
+**Commander** : écrivez à [contact@neolaser.eu](mailto:contact@neolaser.eu?subject=Commande%20Elise%20v2) en indiquant la formule choisie, ainsi que le prénom et le nom qui figureront sur la licence. Vous recevez votre clé par e-mail (section 4). Tous les détails : [neolaser.eu/elise.html](https://neolaser.eu/elise.html#tarifs).
 
 ## Ce qu'il faut
 
@@ -79,7 +100,8 @@ La clé d'Elise vaut pour Elise v2, et l'essai de **14 jours** est commun aux de
 - Une clé déjà activée dans Elise doit être saisie une fois dans Elise v2 : chaque app garde ses propres réglages.
 - La licence est personnelle : la même clé s'active sur tous vos Mac, et votre nom figure sur les documents produits.
 - Elle est vérifiée sur le Mac, sans connexion.
-- Licence annuelle : Elise v2 vous prévient 30 jours avant l'échéance, puis laisse 7 jours de grâce.
+- **Licence perpétuelle** : Elise v2 fonctionne sans limite de durée. Les mises à jour sont incluses pendant 12 mois, puis à 99 € par an si vous le souhaitez. Sans renouvellement, gardez la dernière version obtenue : les versions publiées après la fin de vos mises à jour demandent de les renouveler.
+- **Licence annuelle** : Elise v2 vous prévient 30 jours avant l'échéance, puis laisse 7 jours de grâce.
 - Sans licence valide, l'enregistrement et la rédaction s'arrêtent, mais vos consultations restent lisibles, copiables et exportables.
 
 ## Avec Elise sur le même Mac
@@ -103,7 +125,7 @@ Elise v2 ne remplace pas votre dossier patient : reportez chaque document valid�
 
 ## Mettre à jour et désinstaller
 
-**Mettre à jour.** Vos consultations, réglages, licence et modèles sont conservés.
+**Mettre à jour.** Vos consultations, réglages, licence et modèles sont conservés. Avec une licence perpétuelle, vérifiez d'abord que vos mises à jour sont actives (section 4 et [Tarifs](#tarifs)).
 
 1. Quittez Elise v2 (⌘Q).
 2. Téléchargez la nouvelle version et glissez-la dans Applications, puis choisissez **Remplacer**.
