@@ -36,7 +36,9 @@ Essai gratuit de 14 jours, puis une licence à votre nom, au choix. Prix TTC, TV
 - **Accompagnement** : une installation en visio de 30 minutes, avec le réglage de vos modèles et de votre Stream Deck, puis un support prioritaire.
 - **Le futur plugin Stream Deck** d'Elise, inclus dès sa sortie.
 
-**Commander** : écrivez à [contact@neolaser.eu](mailto:contact@neolaser.eu?subject=Commande%20Elise%20v2) en indiquant la formule choisie, ainsi que le prénom et le nom qui figureront sur la licence. Vous recevez votre clé par e-mail (section 4). Tous les détails : [neolaser.eu/elise.html](https://neolaser.eu/elise.html#tarifs).
+**Commander** : écrivez à [contact@neolaser.eu](mailto:contact@neolaser.eu?subject=Commande%20Elise%20v2) en indiquant la formule choisie, ainsi que le prénom et le nom qui figureront sur la licence. Vous recevez une facture, puis votre clé par e-mail après le paiement (section 4). Tous les détails : [neolaser.eu/elise.html](https://neolaser.eu/elise.html#tarifs).
+
+L'achat est régi par les [conditions générales de vente](https://neolaser.eu/conditions-de-vente.html), et l'utilisation d'Elise v2, y compris pendant l'essai, par les [conditions de licence](https://neolaser.eu/licence-elise.html).
 
 ## Ce qu'il faut
 
